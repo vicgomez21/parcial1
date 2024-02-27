@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708835639 source:c:\users\victor\desktop\semestre 3\progra1\tareas\ejrcicios p\planilla empleados\main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+

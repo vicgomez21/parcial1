@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1708840322 source:c:\users\victor\desktop\semestre 3\progra1\tareas\ejrcicios p\platillas sueldos numeros aleatorios\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<iomanip>
+
